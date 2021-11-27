@@ -15,6 +15,9 @@
 <a href="#">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/bugcrowd.svg"/>
 </a>
+<a href="https://tryhackme.com/p/CyberKhalid">
+    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/tryhackme.svg"/>
+</a>
 <br />
 <!--
 **khalidmaina/khalidmaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
