@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
   <a href="https://www.linkedin.com/in/khalidmaina/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24/icons/linkedin.svg"  />
