@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/khalidmaina/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/khaleedmaina">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:khalidmaina@protonmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
+</a>
+<br />
 <!--
 **khalidmaina/khalidmaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
