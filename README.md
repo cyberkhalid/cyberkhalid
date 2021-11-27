@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div>
-  [ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034)
- </div>
+
+[ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034)
 
 <div>
 <img src="https://tryhackme-badges.s3.amazonaws.com/CyberKhalid.png" alt="TryHackMe">
