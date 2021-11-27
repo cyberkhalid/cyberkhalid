@@ -8,7 +8,9 @@
 </a>
 <a href="mailto:khalidmaina@protonmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
+  <i class="fab fa-twitter"></i>
 </a>
+
 <br />
 <!--
 **khalidmaina/khalidmaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
