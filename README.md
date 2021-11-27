@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034)
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/CyberKhalid.png" alt="TryHackMe">
+[ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034)
 
 <a href="https://www.linkedin.com/in/khalidmaina/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
