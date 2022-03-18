@@ -14,7 +14,7 @@
 <ul>
     <li>Complete Linux Security & Hardening with Practical Examples : <a href='https://www.udemy.com/certificate/UC-d388bb94-1541-47c3-9820-2db16e7c319a/'> view certificate </a> </li>
     <li>Google IT Automation with Python :  <a href='https://www.coursera.org/account/accomplishments/professional-cert/8HGGYHBD5LZR'> view certificate </a></li>
-    <li>Become a Windows System Administrator (Server 2012 R2) : <a href='https://www.linkedin.com/in/khalidmaina/'> view certificate </a> </li>
+    <li>Become a Windows System Administrator (Server 2012 R2) : <a href='https://drive.google.com/file/d/1p6d-U_kSY_plWAzn9E1jyUThuMmP-hRa/view?usp=drivesdk'> view certificate </a> </li>
     <li>Ultimate Ethical Hacking and Penetration Testing(UEH) :  <a href='https://www.udemy.com/certificate/UC-ea42d118-c5dd-4f39-9d02-38b1b8a3808d/'> view certificate </a></li>
     <li>Active Directory Pentesting With Kali Linux - Red Team :  <a href='https://www.udemy.com/certificate/UC-2ebe9f23-773c-4062-ba60-10b9ab445d32/'> view certificate </a></li>
 </ul>
