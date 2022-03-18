@@ -5,7 +5,7 @@
 <p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Hassan-Shoayb&color=blue)  
+![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
 
 <h2>Certifications</h2>
 <ul>
@@ -20,16 +20,16 @@
   <img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
 </a>
 
-<a href="https://www.linkedin.com/in/hassan-shoayb/">
+<a href="https://www.linkedin.com/in/khalidmaina/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 
 
-<a href="https://twitter.com/engr_shoayb">
+<a href="https://twitter.com/_cyberkhalid">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 
-<a href="mailto:engrshoayb@gmail.com">
+<a href="mailto:cyberkhalid@protonmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
@@ -45,17 +45,17 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Hassan-Shoayb?tab=repositories">
+  <a href="https://github.com/cyberkhalid?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Shoayb&layout=compact&theme=algolia&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkhalid&layout=compact&theme=algolia&count_private=true"
     />
   </a>
-  <a href="https://github.com/Hassan-Shoayb?tab=repositories">
+  <a href="https://github.com/cyberkhalid?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Hassan-Shoayb&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=cyberkhalid&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia&count_private=true"
     />
   </a>
 </p>
@@ -65,7 +65,7 @@
 </p>
 
 <!--
-**Hassan-Shoayb/Hassan-Shoayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cyberkhalid/cyberkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
