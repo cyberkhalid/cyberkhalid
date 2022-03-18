@@ -15,29 +15,16 @@
 
 
 ### You may check me on:
-
-<a href="https://www.kaggle.com/engrshoayb">   
-  <img align="left" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  />
-</a>
-
-<a href="https://www.linkedin.com/in/khalidmaina/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
-
-
 <a href="https://twitter.com/_cyberkhalid">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 
 <a href="mailto:cyberkhalid@protonmail.com">
-  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />
 </a>
 
-<a href="https://www.youtube.com/c/Softlinks">
-  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-</a>  
-<a href="https://shoayb.hashnode.dev/">
-  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
+<a href="https://www.linkedin.com/in/khalidmaina/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 
 <br>
