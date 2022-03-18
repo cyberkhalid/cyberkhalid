@@ -1,8 +1,11 @@
-# Hi there 👋 I'm [Shoayb!](https://)   
-![Header!](https://user-images.githubusercontent.com/57611883/154788077-6bd90325-8cf8-4898-b9a0-ebbe4d7dd5fe.png)
+# Hi there 👋 I'm [CyberKhalid!](https://)   
+| <img src="https://tryhackme-badges.s3.amazonaws.com/CyberKhalid.png" alt="TryHackMe">  |  [ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034) |
+|---|---|
 
 
-<p>Hassan Shoayb is Data Scientist, Tech Content Creator from Nigeria. He also has a background in Computer Science and Engineering. He is super passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science to build data driven products that can solve actual problems. </p>
+<p>
+    CyberKhalid
+</p>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
