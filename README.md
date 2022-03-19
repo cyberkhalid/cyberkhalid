@@ -74,13 +74,13 @@
         System Administration
     </li>
     <li>
-        Virtualization
-    </li>
-    <li>
         Networking
     </li>
     <li>
         Programming
+    </li>
+    <li>
+        Virtualization
     </li>
 </ul>
 
