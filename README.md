@@ -10,6 +10,16 @@
 
 ![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
 
+<h2>Education</h2>
+<ul>
+    <li>
+        Bachelor's Degree in Computer Science & Engineering 
+        <ul>
+            <li>Date : 2020 - 2024</li>
+        </ul>
+    </li>
+</ul>
+
 <h2>Certifications</h2>
 <ul>
     <li>Complete Linux Security & Hardening with Practical Examples : <a href='https://www.udemy.com/certificate/UC-d388bb94-1541-47c3-9820-2db16e7c319a/'> view certificate </a> </li>
@@ -19,6 +29,39 @@
     <li>Active Directory Pentesting With Kali Linux - Red Team :  <a href='https://www.udemy.com/certificate/UC-2ebe9f23-773c-4062-ba60-10b9ab445d32/'> view certificate </a></li>
 </ul>
 
+<h2>Experience</h2>
+<ul>
+    <li>
+        HackerOne
+        <ul>
+            <li>Bug Hunter</li>
+        </ul>
+    </li>
+    <li>
+        OpenBugBounty
+        <ul>
+            <li>Bug Hunter</li>
+        </ul>
+    </li>
+    <li>
+        HackTheBox
+        <ul>
+            <li>CTF Player</li>
+        </ul>
+    </li>
+    <li>
+        TryHackMe
+        <ul>
+            <li>CTF Player</li>
+        </ul>
+    </li>
+    <li>
+        VulnHub
+        <ul>
+            <li>CTF Player</li>
+        </ul>
+    </li>
+</ul>
 
 ### You may check me on:
 <a href="https://twitter.com/_cyberkhalid">
