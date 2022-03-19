@@ -63,6 +63,31 @@
     </li>
 </ul>
 
+<h2>Skills</h2>
+<ul>
+    <li>
+        Cybersecurity
+    </li>
+    <li>
+        Penetration Testing
+    </li>
+    <li>
+        Red Teaming
+    </li>
+    <li>
+        System Administration
+    </li>
+    <li>
+        Virtualization
+    </li>
+    <li>
+        Networking
+    </li>
+    <li>
+        Programming
+    </li>
+</ul>
+
 ### You may check me on:
 <a href="https://twitter.com/_cyberkhalid">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
