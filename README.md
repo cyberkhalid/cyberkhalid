@@ -92,6 +92,12 @@
 | <img src="https://tryhackme-badges.s3.amazonaws.com/CyberKhalid.png" alt="TryHackMe">  |  [ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034) |
 |---|---|
 
+<h2>Resume</h2>
+<ul>
+    <li>
+        <a href="#">View</a>
+    </li>
+</ul>
 
 ### You may check me on:
 <a href="https://twitter.com/_cyberkhalid">
