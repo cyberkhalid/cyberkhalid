@@ -1,15 +1,12 @@
-# Hi there 👋 I'm [CyberKhalid!](https://)   
-![](https://raw.githubusercontent.com/cyberkhalid/cyberkhalid/main/profile.jpeg)
+ ![](https://raw.githubusercontent.com/cyberkhalid/cyberkhalid/main/profile.jpeg)
+ 
+![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
 
 <h2></h2>
 
 > UNDERSTAND THE LOGIC THOROUGHLY, THEN CIRCUMVENT THE LOGIC ACCORDINGLY.<br>
 BE PATIENT, BE SOPHISTICATED, BE ETHICAL.
-
 <h2></h2>
-<br>
-
-![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
 
 <h2>Education</h2>
 <ul>
