@@ -5,7 +5,9 @@
 <h2></h2>
 
 > UNDERSTAND THE LOGIC THOROUGHLY, THEN CIRCUMVENT THE LOGIC ACCORDINGLY.<br>
-BE PATIENT, BE SOPHISTICATED, BE ETHICAL.
+BE PATIENT, BE SOPHISTICATED, BE ETHICAL.<br>
+<p align="right"><a href="https://twitter.com/_cyberkhalid">~cyberkhalid</a></p>
+
 <h2></h2>
 
 <h2>Education</h2>
