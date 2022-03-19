@@ -1,8 +1,4 @@
 # Hi there 👋 I'm [CyberKhalid!](https://)   
-| <img src="https://tryhackme-badges.s3.amazonaws.com/CyberKhalid.png" alt="TryHackMe">  |  [ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034) |
-|---|---|
-
-
 <p>
     CyberKhalid
 </p>
@@ -87,6 +83,12 @@
         Programming
     </li>
 </ul>
+
+<h2>Badges</h2>
+
+| <img src="https://tryhackme-badges.s3.amazonaws.com/CyberKhalid.png" alt="TryHackMe">  |  [ ![cyberkhalid](https://www.hackthebox.eu/badge/image/553034)](https://app.hackthebox.com/users/553034) |
+|---|---|
+
 
 ### You may check me on:
 <a href="https://twitter.com/_cyberkhalid">
