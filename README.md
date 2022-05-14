@@ -30,12 +30,6 @@ BE PATIENT, BE SOPHISTICATED, BE ETHICAL.<br>
 <h2>Experience</h2>
 <ul>
     <li>
-        HackerOne
-        <ul>
-            <li>Bug Hunter</li>
-        </ul>
-    </li>
-    <li>
         OpenBugBounty
         <ul>
             <li>Bug Hunter</li>
