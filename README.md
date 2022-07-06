@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
 <h2></h2>
 
-> BE PATIENT, BE SOPHISTICATED, BE ETHICAL.
+> BE SOPHISTICATED, BE ETHICAL.
 <p align="right"><a href="https://twitter.com/_cyberkhalid">~cyberkhalid</a></p>
 
 <h2></h2>
