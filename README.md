@@ -1,4 +1,4 @@
- ![](https://github.com/cyberkhalid/cyberkhalid/blob/main/Khalid%20Backd%202.png)
+ ![](https://github.com/cyberkhalid/cyberkhalid/blob/main/profile.png)
 ![](https://komarev.com/ghpvc/?username=cyberkhalid&color=blue)  
 <h2></h2>
 
