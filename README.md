@@ -3,7 +3,7 @@
 <h2></h2>
 
 > BE SOPHISTICATED, BE ETHICAL.
-<p align="right"><a href="https://twitter.com/_cyberkhalid">~cyberkhalid</a></p>
+<p align="right"><a href="https://twitter.com/0xCyb3rkh4l1d">~cyberkhalid</a></p>
 
 <h2></h2>
 
